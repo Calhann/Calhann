@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">Merhaba, ben Metehan!</h1>
 
-<!--
-**Calhann/Calhann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <em>Yazılım Geliştirici</em>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hakkımda
+
+- Kendimi yazılım alanında geliştiriyorum
+- Yeni teknolojiler öğrenmeyi seviyorum
+---
+
+### Kullandığım Diller
+
+<div align="left">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+</div>
+
+---
+
+### İletişim
+
+<a href="mailto:calhancontact@gmail.com"><img src="https://img.shields.io/badge/e--posta-calhancontact%40gmail.com-red?style=flat&logo=gmail&logoColor=white"/></a>
